@@ -1,0 +1,22 @@
+#ENTRADAS 
+net CLK loc = E7;
+net RST loc = L1;
+
+#SALIDAS
+net SEGMENTOS(7) loc = P16;
+net SEGMENTOS(6) loc = P15;
+net SEGMENTOS(5) loc = T15;
+net SEGMENTOS(4) loc = T14;
+net SEGMENTOS(3) loc = T13;
+net SEGMENTOS(2) loc = R16;
+net SEGMENTOS(1) loc = R15;
+net SEGMENTOS(0) loc = R14;
+
+net DISPLAYS(7) loc = E11;
+net DISPLAYS(6) loc = D11;
+net DISPLAYS(5) loc = C15;
+net DISPLAYS(4) loc = E15;
+net DISPLAYS(3) loc = D16;
+net DISPLAYS(2) loc = E16;
+net DISPLAYS(1) loc = F16;
+net DISPLAYS(0) loc = G16;
